@@ -14,8 +14,8 @@ Python implementation of DDQN + PER
  * PIL
  * Numpy
  
-Here is an agent I trained using this network: 
-https://s1.gifyu.com/images/okayadf2bd0dad0a43a9.gif
+Here is an agent I trained using this network:  
+https://s1.gifyu.com/images/okayspeed.gif
 
 
 ## Recommended Settings
