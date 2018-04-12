@@ -13,6 +13,9 @@ Python implementation of DDQN + PER
  * Keras 2.0.5 (Tensorflow backend)
  * PIL
  * Numpy
+ 
+Here is an agent I trained using this network (wait to load): 
+![](https://s1.gifyu.com/images/okayadf2bd0dad0a43a9.gif)
 
 
 ## Recommended Settings
